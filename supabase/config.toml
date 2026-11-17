@@ -1,3 +1,0 @@
-[functions.ai-consultant]
-verify_jwt = true
-entrypoint = "./functions/ai-consultant/index.ts"
